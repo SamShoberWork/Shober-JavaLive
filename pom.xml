@@ -14,11 +14,6 @@
             <artifactId>http2-common</artifactId>
             <version>9.4.12.RC0</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.solr</groupId>
-            <artifactId>solr-velocity</artifactId>
-            <version>8.3.1</version>
-        </dependency>
 
     </dependencies>
     <properties>
