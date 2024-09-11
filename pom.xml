@@ -6,13 +6,13 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
-            <version>1.15</version>
+            <version>1.27.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.eclipse.jetty.http2</groupId>
             <artifactId>http2-common</artifactId>
-            <version>9.4.12.RC0</version>
+            <version>9.4.55.v20240627</version>
         </dependency>
 
     </dependencies>
